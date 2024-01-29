@@ -1,0 +1,1192 @@
+{
+    "intents": [
+        {
+            "tag": "itching",
+            "patterns": [
+                "itching"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "skin_rash",
+            "patterns": [
+                "skin_rash"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "nodal_skin_eruptions",
+            "patterns": [
+                "nodal_skin_eruptions"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "continuous_sneezing",
+            "patterns": [
+                "continuous_sneezing"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "shivering",
+            "patterns": [
+                "shivering"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "chills",
+            "patterns": [
+                "chills"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "joint_pain",
+            "patterns": [
+                "joint_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "stomach_pain",
+            "patterns": [
+                "stomach_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "acidity",
+            "patterns": [
+                "acidity"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "ulcers_on_tongue",
+            "patterns": [
+                "ulcers_on_tongue"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "muscle_wasting",
+            "patterns": [
+                "muscle_wasting"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "vomiting",
+            "patterns": [
+                "vomiting"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "burning_micturition",
+            "patterns": [
+                "burning_micturition"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "spotting_ urination",
+            "patterns": [
+                "spotting_ urination"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "fatigue",
+            "patterns": [
+                "fatigue"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "weight_gain",
+            "patterns": [
+                "weight_gain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "anxiety",
+            "patterns": [
+                "anxiety"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "cold_hands_and_feets",
+            "patterns": [
+                "cold_hands_and_feets"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "mood_swings",
+            "patterns": [
+                "mood_swings"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "weight_loss",
+            "patterns": [
+                "weight_loss"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "restlessness",
+            "patterns": [
+                "restlessness"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "lethargy",
+            "patterns": [
+                "lethargy"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "patches_in_throat",
+            "patterns": [
+                "patches_in_throat"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "irregular_sugar_level",
+            "patterns": [
+                "irregular_sugar_level"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "cough",
+            "patterns": [
+                "cough"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "high_fever",
+            "patterns": [
+                "high_fever"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "sunken_eyes",
+            "patterns": [
+                "sunken_eyes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "breathlessness",
+            "patterns": [
+                "breathlessness"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "sweating",
+            "patterns": [
+                "sweating"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "dehydration",
+            "patterns": [
+                "dehydration"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "indigestion",
+            "patterns": [
+                "indigestion"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "headache",
+            "patterns": [
+                "headache"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "yellowish_skin",
+            "patterns": [
+                "yellowish_skin"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "dark_urine",
+            "patterns": [
+                "dark_urine"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "nausea",
+            "patterns": [
+                "nausea"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "loss_of_appetite",
+            "patterns": [
+                "loss_of_appetite"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "pain_behind_the_eyes",
+            "patterns": [
+                "pain_behind_the_eyes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "back_pain",
+            "patterns": [
+                "back_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "constipation",
+            "patterns": [
+                "constipation"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "abdominal_pain",
+            "patterns": [
+                "abdominal_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "diarrhoea",
+            "patterns": [
+                "diarrhoea"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "mild_fever",
+            "patterns": [
+                "mild_fever"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "yellow_urine",
+            "patterns": [
+                "yellow_urine"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "yellowing_of_eyes",
+            "patterns": [
+                "yellowing_of_eyes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "acute_liver_failure",
+            "patterns": [
+                "acute_liver_failure"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "fluid_overload",
+            "patterns": [
+                "fluid_overload"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "swelling_of_stomach",
+            "patterns": [
+                "swelling_of_stomach"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "swelled_lymph_nodes",
+            "patterns": [
+                "swelled_lymph_nodes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "malaise",
+            "patterns": [
+                "malaise"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "blurred_and_distorted_vision",
+            "patterns": [
+                "blurred_and_distorted_vision"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "phlegm",
+            "patterns": [
+                "phlegm"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "throat_irritation",
+            "patterns": [
+                "throat_irritation"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "redness_of_eyes",
+            "patterns": [
+                "redness_of_eyes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "sinus_pressure",
+            "patterns": [
+                "sinus_pressure"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "runny_nose",
+            "patterns": [
+                "runny_nose"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "congestion",
+            "patterns": [
+                "congestion"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "chest_pain",
+            "patterns": [
+                "chest_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "weakness_in_limbs",
+            "patterns": [
+                "weakness_in_limbs"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "fast_heart_rate",
+            "patterns": [
+                "fast_heart_rate"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "pain_during_bowel_movements",
+            "patterns": [
+                "pain_during_bowel_movements"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "pain_in_anal_region",
+            "patterns": [
+                "pain_in_anal_region"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "bloody_stool",
+            "patterns": [
+                "bloody_stool"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "irritation_in_anus",
+            "patterns": [
+                "irritation_in_anus"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "neck_pain",
+            "patterns": [
+                "neck_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "dizziness",
+            "patterns": [
+                "dizziness"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "cramps",
+            "patterns": [
+                "cramps"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "bruising",
+            "patterns": [
+                "bruising"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "obesity",
+            "patterns": [
+                "obesity"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "swollen_legs",
+            "patterns": [
+                "swollen_legs"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "swollen_blood_vessels",
+            "patterns": [
+                "swollen_blood_vessels"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "puffy_face_and_eyes",
+            "patterns": [
+                "puffy_face_and_eyes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "enlarged_thyroid",
+            "patterns": [
+                "enlarged_thyroid"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "brittle_nails",
+            "patterns": [
+                "brittle_nails"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "swollen_extremeties",
+            "patterns": [
+                "swollen_extremeties"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "excessive_hunger",
+            "patterns": [
+                "excessive_hunger"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "extra_marital_contacts",
+            "patterns": [
+                "extra_marital_contacts"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "drying_and_tingling_lips",
+            "patterns": [
+                "drying_and_tingling_lips"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "slurred_speech",
+            "patterns": [
+                "slurred_speech"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "knee_pain",
+            "patterns": [
+                "knee_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "hip_joint_pain",
+            "patterns": [
+                "hip_joint_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "muscle_weakness",
+            "patterns": [
+                "muscle_weakness"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "stiff_neck",
+            "patterns": [
+                "stiff_neck"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "swelling_joints",
+            "patterns": [
+                "swelling_joints"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "movement_stiffness",
+            "patterns": [
+                "movement_stiffness"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "spinning_movements",
+            "patterns": [
+                "spinning_movements"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "loss_of_balance",
+            "patterns": [
+                "loss_of_balance"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "unsteadiness",
+            "patterns": [
+                "unsteadiness"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "weakness_of_one_body_side",
+            "patterns": [
+                "weakness_of_one_body_side"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "loss_of_smell",
+            "patterns": [
+                "loss_of_smell"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "bladder_discomfort",
+            "patterns": [
+                "bladder_discomfort"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "foul_smell_of urine",
+            "patterns": [
+                "foul_smell_of urine"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "continuous_feel_of_urine",
+            "patterns": [
+                "continuous_feel_of_urine"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "passage_of_gases",
+            "patterns": [
+                "passage_of_gases"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "internal_itching",
+            "patterns": [
+                "internal_itching"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "toxic_look_(typhos)",
+            "patterns": [
+                "toxic_look_(typhos)"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "depression",
+            "patterns": [
+                "depression"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "irritability",
+            "patterns": [
+                "irritability"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "muscle_pain",
+            "patterns": [
+                "muscle_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "altered_sensorium",
+            "patterns": [
+                "altered_sensorium"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "red_spots_over_body",
+            "patterns": [
+                "red_spots_over_body"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "belly_pain",
+            "patterns": [
+                "belly_pain"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "abnormal_menstruation",
+            "patterns": [
+                "abnormal_menstruation"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "dischromic _patches",
+            "patterns": [
+                "dischromic _patches"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "watering_from_eyes",
+            "patterns": [
+                "watering_from_eyes"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "increased_appetite",
+            "patterns": [
+                "increased_appetite"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "polyuria",
+            "patterns": [
+                "polyuria"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "family_history",
+            "patterns": [
+                "family_history"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "mucoid_sputum",
+            "patterns": [
+                "mucoid_sputum"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "rusty_sputum",
+            "patterns": [
+                "rusty_sputum"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "lack_of_concentration",
+            "patterns": [
+                "lack_of_concentration"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "visual_disturbances",
+            "patterns": [
+                "visual_disturbances"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "receiving_blood_transfusion",
+            "patterns": [
+                "receiving_blood_transfusion"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "receiving_unsterile_injections",
+            "patterns": [
+                "receiving_unsterile_injections"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "coma",
+            "patterns": [
+                "coma"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "stomach_bleeding",
+            "patterns": [
+                "stomach_bleeding"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "distention_of_abdomen",
+            "patterns": [
+                "distention_of_abdomen"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "history_of_alcohol_consumption",
+            "patterns": [
+                "history_of_alcohol_consumption"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "fluid_overload",
+            "patterns": [
+                "fluid_overload"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "blood_in_sputum",
+            "patterns": [
+                "blood_in_sputum"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "prominent_veins_on_calf",
+            "patterns": [
+                "prominent_veins_on_calf"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "palpitations",
+            "patterns": [
+                "palpitations"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "painful_walking",
+            "patterns": [
+                "painful_walking"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "pus_filled_pimples",
+            "patterns": [
+                "pus_filled_pimples"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "blackheads",
+            "patterns": [
+                "blackheads"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "scurring",
+            "patterns": [
+                "scurring"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "skin_peeling",
+            "patterns": [
+                "skin_peeling"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "silver_like_dusting",
+            "patterns": [
+                "silver_like_dusting"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "small_dents_in_nails",
+            "patterns": [
+                "small_dents_in_nails"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "inflammatory_nails",
+            "patterns": [
+                "inflammatory_nails"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "blister",
+            "patterns": [
+                "blister"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "red_sore_around_nose",
+            "patterns": [
+                "red_sore_around_nose"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "yellow_crust_ooz",
+            "patterns": [
+                "yellow_crust_ooz"
+            ],
+            "responses": [
+                ""
+            ]
+        }
+    ]
+}

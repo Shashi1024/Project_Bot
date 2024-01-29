@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hi, I'm bot. how can I help you?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi, I'm bot. how can I help you?"
+    },
+    {
+      "question": "hi how are you",
+      "answer": "I'm fine, What about you?"
+    },
+    {
+      "question": "im fine",
+      "answer": "That's great to hear. How can I help you today."
+    },
+    {
+      "question": "i need your help",
+      "answer": "Of course. Just describe me your problem."
+    },
+    {
+      "question": "im suffering from a health issue",
+      "answer": "That's sad to hear, I'll assist you to book an appointment with a doctor, Please describe your Symptoms."
+    },
+    {
+      "question": "krishna",
+      "answer": "hello krishna"
+    }
+  ]
+}
